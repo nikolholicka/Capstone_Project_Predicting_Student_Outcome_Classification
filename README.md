@@ -1,4 +1,4 @@
-# Capstone Project: Predicting Students' Outcomes with Classification
+# Capstone Project: Predicting Students' Outcomes with Classification with Data from The Open University
 
 ### Project Objective
 
